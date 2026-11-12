@@ -137,4 +137,4 @@ Include the app version, phone model, Android version, camera firmware version, 
 - AndroidX Media3 ExoPlayer/UI `1.5.1` — media playback.
 - Android platform networking and MediaStore APIs — camera communication and phone storage.
 
-Dependencies have their own licenses. See the Gradle files for the exact configuration, `CHANGELOG.md` for changes and `LICENSE` for this project's license.
+Dependencies have their own licenses. See the Gradle files for the exact configuration, `CHANGELOG.md` for changes.
